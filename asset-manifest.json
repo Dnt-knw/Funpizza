@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.e67bf0b7.chunk.css",
-    "main.js": "./static/js/main.cd914e5c.chunk.js",
-    "main.js.map": "./static/js/main.cd914e5c.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.b3d6e6c9.js",
-    "runtime-main.js.map": "./static/js/runtime-main.b3d6e6c9.js.map",
-    "static/js/2.7be40b3d.chunk.js": "./static/js/2.7be40b3d.chunk.js",
-    "static/js/2.7be40b3d.chunk.js.map": "./static/js/2.7be40b3d.chunk.js.map",
-    "static/js/3.9458a0a1.chunk.js": "./static/js/3.9458a0a1.chunk.js",
-    "static/js/3.9458a0a1.chunk.js.map": "./static/js/3.9458a0a1.chunk.js.map",
+    "main.css": "./static/css/main.fff88f5a.chunk.css",
+    "main.js": "./static/js/main.b20f91c6.chunk.js",
+    "main.js.map": "./static/js/main.b20f91c6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.94874f17.js",
+    "runtime-main.js.map": "./static/js/runtime-main.94874f17.js.map",
+    "static/js/2.0eb773c4.chunk.js": "./static/js/2.0eb773c4.chunk.js",
+    "static/js/2.0eb773c4.chunk.js.map": "./static/js/2.0eb773c4.chunk.js.map",
+    "static/js/3.87be9599.chunk.js": "./static/js/3.87be9599.chunk.js",
+    "static/js/3.87be9599.chunk.js.map": "./static/js/3.87be9599.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.e67bf0b7.chunk.css.map": "./static/css/main.e67bf0b7.chunk.css.map",
-    "static/js/2.7be40b3d.chunk.js.LICENSE.txt": "./static/js/2.7be40b3d.chunk.js.LICENSE.txt",
+    "static/css/main.fff88f5a.chunk.css.map": "./static/css/main.fff88f5a.chunk.css.map",
+    "static/js/2.0eb773c4.chunk.js.LICENSE.txt": "./static/js/2.0eb773c4.chunk.js.LICENSE.txt",
     "static/media/Caesar-salad-with-shrimps.16fc173f.jpg": "./static/media/Caesar-salad-with-shrimps.16fc173f.jpg",
     "static/media/Caesar-salad.50ba562e.png": "./static/media/Caesar-salad.50ba562e.png",
     "static/media/Chicken-Caesar-salad.6f464ec7.jpg": "./static/media/Chicken-Caesar-salad.6f464ec7.jpg",
@@ -58,9 +58,9 @@
     "static/media/youtube.ee9f2148.png": "./static/media/youtube.ee9f2148.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3d6e6c9.js",
-    "static/js/2.7be40b3d.chunk.js",
-    "static/css/main.e67bf0b7.chunk.css",
-    "static/js/main.cd914e5c.chunk.js"
+    "static/js/runtime-main.94874f17.js",
+    "static/js/2.0eb773c4.chunk.js",
+    "static/css/main.fff88f5a.chunk.css",
+    "static/js/main.b20f91c6.chunk.js"
   ]
 }
