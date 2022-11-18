@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.b2987890.chunk.css",
-    "main.js": "./static/js/main.18c1824d.chunk.js",
-    "main.js.map": "./static/js/main.18c1824d.chunk.js.map",
+    "main.css": "./static/css/main.7cd0e919.chunk.css",
+    "main.js": "./static/js/main.2b388a00.chunk.js",
+    "main.js.map": "./static/js/main.2b388a00.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0b0fcc4e.js",
     "runtime-main.js.map": "./static/js/runtime-main.0b0fcc4e.js.map",
     "static/js/2.158e9899.chunk.js": "./static/js/2.158e9899.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.90ec7755.chunk.js": "./static/js/3.90ec7755.chunk.js",
     "static/js/3.90ec7755.chunk.js.map": "./static/js/3.90ec7755.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.b2987890.chunk.css.map": "./static/css/main.b2987890.chunk.css.map",
+    "static/css/main.7cd0e919.chunk.css.map": "./static/css/main.7cd0e919.chunk.css.map",
     "static/js/2.158e9899.chunk.js.LICENSE.txt": "./static/js/2.158e9899.chunk.js.LICENSE.txt",
     "static/media/Bacon-sandwich.72b36db7.png": "./static/media/Bacon-sandwich.72b36db7.png",
     "static/media/Caesar-salad-with-shrimps.ff3972aa.png": "./static/media/Caesar-salad-with-shrimps.ff3972aa.png",
@@ -67,7 +67,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b0fcc4e.js",
     "static/js/2.158e9899.chunk.js",
-    "static/css/main.b2987890.chunk.css",
-    "static/js/main.18c1824d.chunk.js"
+    "static/css/main.7cd0e919.chunk.css",
+    "static/js/main.2b388a00.chunk.js"
   ]
 }
