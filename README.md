@@ -1,4 +1,5 @@
 # Funpizza
+
 > Pizzeria website with delicious food
 
 ## Briefly about the project
