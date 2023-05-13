@@ -1,7 +1,7 @@
 # Funpizza
 > Funpizza is a pizzeria website with a beautiful UI design
 
-### Briefly about the project
+## Briefly about the project
 
 <ul>
     <li>You can find food to your liking, namely pizza, burgers, sandwiches, salads and drinks <br/></li>
