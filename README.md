@@ -1,13 +1,28 @@
 # Funpizza
-> Funpizza is a pizzeria website with a beautiful UI design
+> Pizzeria website with delicious food
 
 ## Briefly about the project
 
-<ul>
-    <li>You can find food to your liking, namely pizza, burgers, sandwiches, salads and drinks <br/></li>
-    <li>You can leave your phone number in the "suggestion" form <br/></li>
-    <li>The shopping cart is in the upper right corner <br/></li>
-    <li>If you add an item to the cart, the animation in the upper right corner will let you know about it <br/></li>
-    <li>You can add or remove food from shopping cart <br/></li>
-    <li>You can hide the header for a better view <br/></li>
-</ul>
+### You can find here
+
+- Food to your liking, such as
+    - Pizza
+    - Burgers
+    - Sandwiches
+    - Salads
+    - Drinks
+- Beautiful and smooth transitions and animations
+- Pleasant to the eye design
+
+## What you can do
+
+- Fill out the form and send suggestions
+- Add or remove food from shopping cart
+- Hide the header for a better view
+
+## Additional info
+
+- The app calculates the total price of the cart
+- When you hover over the "delete" button, the app will recalculate the total price without this item
+- If there are still items in the cart, then you will see an animation at the top right corner
+- When buying, you will see how much you paid and for what number of items
