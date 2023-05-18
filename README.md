@@ -2,7 +2,7 @@
 
 > Pizzeria website with delicious food 🍴
 
-### See the <a href='https://dnt-knw.github.io/Funpizza' target='_blank' title='Click to open the project'> Demo </a> 👁
+### See the <a href='https://dnt-knw.github.io/Funpizza' target='_blank' title='Click to open the project'>Demo</a> 👁
 
 <img src='./Funpizza.gif' alt='funpizza' />
 
